@@ -1,0 +1,11 @@
+{
+	"name": "Advanced Blocker",
+	"description": "Give normal site users the priviledge to block users.",
+	"version": "1.2",
+	"date": "2015-02-04",
+	"author": "JacksiroKe",
+	"author_uri": "https://github.com/JacksiroKe",
+	"license": "GPLv2",
+	"min_q2a": "1.6",
+	"load_order": "after_db_init"
+}
