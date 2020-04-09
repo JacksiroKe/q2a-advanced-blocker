@@ -1,7 +1,9 @@
 # Q2A ADVANCED BLOCKER PLUGIN 
-=============
-
 Give normal site users the privilege to block users
+
+## Installing Instructions
+If you have never installed my Q2A plugins before please consider checking the [Installation Guide](https://github.com/JacksiroKe/q2a-advanced-blocker/edit/master/INSTALLING.md)
+
 <img src="screenshots/advanced-blocker.png"/>
 
 ## FEATURES OF THE PLUGIN
