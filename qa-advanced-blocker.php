@@ -15,7 +15,7 @@ class qa_advanced_blocker
 			'fields' => array(
 				array(
 					'type' => 'custom',
-					'label' => 'Hey <b>'.qa_get_logged_in_handle().'</b>, this is a <a href="https://github.com/JacksiroKe/q2a-advanced-blocker"><b>Premium Plugin</b></a>! To get the full experience, simply purchase it by sending <b>$30</b> to <b>jaksiro@gmail.com</b> via <a href="https://paypal.com"><b>Paypal</b></a> to get the upgrade link on email.',
+					'label' => 'Hey <b>'.qa_get_logged_in_handle().'</b>, I am glad you intrested in my plugin: <a href="https://github.com/JacksiroKe/q2a-advanced-blocker"><b>Advanced Blocker</b></a>.<br> Well, this is a <b>Premium Plugin</b>! Purchase it by sending <b>$40</b> to <a href="https://paypal.me/jacksiro"><b>paypal.me/jacksiro</b></a> to get the upgrade link on email.<hr>If you have any queries email me asap on <a href="mailto:jaksiro@gmail.com">jaksiro@gmail.com</a> and I will get back to you asap!',
 				),
 				
 			),
