@@ -9,7 +9,6 @@
 	Plugin Author URI: https://github.com/JacksiroKe
 	Plugin License: GPLv3
 	Plugin Minimum Question2Answer Version: 1.6
-	Plugin Update Check URI: https://github.com/JacksiroKe/q2a-advanced-blocker/master/qa-plugin.php
 
 */
 
@@ -20,7 +19,7 @@ if ( !defined('QA_VERSION') )
 	
 }
 	
-qa_register_plugin_module('widget', 'qa-advanced-blocker.php', 'qa_advanced_blocker', 'Advanced Blocker');
+qa_register_plugin_module('widget', 'advanced-blocker.php', 'advanced_blocker', 'Advanced Blocker');
 
 /*
 	Omit PHP closing tag to help avoid accidental output
