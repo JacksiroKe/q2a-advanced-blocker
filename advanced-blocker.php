@@ -7,7 +7,7 @@
 
 */
 
-class qa_advanced_blocker
+class advanced_blocker
 {
 	public function admin_form(&$qa_content)
 	{
